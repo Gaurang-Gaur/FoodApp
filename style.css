@@ -1,0 +1,155 @@
+
+ /* Prestyling */
+
+*{
+    box-sizing:content-box;
+}
+body{
+    
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+    padding:0;
+
+
+}
+
+/* Navbar styling */
+.header{
+    display:flex;
+    justify-content:space-between;
+    /* border:2px solid black; */
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.183);
+
+}
+.logo-container{
+    width:120px;
+}
+
+.logo{
+    width:100px;
+    border-radius:50%;
+        box-shadow: 1px 4px 14px rgba(0, 0, 0, 0.183);
+
+}
+.logo:hover{
+    width:100px;
+    border-radius:50%;
+        box-shadow: 8px 4px 1400px rgba(0, 0, 0, 0.183);
+        cursor:pointer;
+
+}
+
+.nav-item{
+    display:flex;
+    /* padding:30px; */
+    list-style-type: none;
+
+}
+.nav-item>li{
+    padding:30px;
+    font-size:2rem;
+    
+}
+.nav-item>li:hover{
+    padding:30px;
+    font-size:2rem;
+    cursor:pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.183);
+
+    
+}
+
+
+/* Search bar css */
+.search{
+    margin-top:20px;
+}
+.input{
+
+    width: 490px;
+    height: 38px;
+    border-radius: 30px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    box-shadow: 2px 2px 5px black;
+    display: inline-block;
+    outline:none;
+}
+
+.center{
+    text-align: center;
+    /* width: 300px; */
+}
+
+.btn-search{
+    margin-top: 40px;
+    margin-right: 20px;
+    height: 40px;
+    border: none;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.183);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color:alice-blue;
+    border-radius:10px;
+}
+.btn-search:hover{
+    box-shadow: 1px 1px 5px black;
+    transition: 0.01s;
+    opacity: 0.5;
+    color:black;
+    cursor:pointer;
+}
+
+
+/* Card styling */
+
+
+.image{
+    width: 240px;
+    /* object-fit: cover; */
+    height: 300px;
+}
+#res-card-container{
+    background-color:aliceblue;
+    margin-top:20px;
+     margin-left:5px;
+}
+.card{
+    /* display:flex; */
+    padding:1rem;
+    margin-left:10px;
+    width: 240px;
+    display: inline-block;
+    margin-right: 20px;
+    box-shadow: 2px 2px 5px rgba(131, 21, 21, 0.205);
+    /* padding: 10px; */
+    /* border: 2px solid black; */
+    text-align: justify;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text{
+    padding: 10px;
+}
+.add{
+    width: 100px;
+    border: none;
+    background-color: rgb(0, 110, 255);
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    border-radius: 5px;
+   
+    cursor: pointer;
+}
+.add:hover{
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.623);
+    transition: 0.1s;
+    opacity: 0.9;
+}
+.card:hover{
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.623);
+    transition: 0.1s;
+    opacity: 0.9;
+}
