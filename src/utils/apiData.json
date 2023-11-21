@@ -1,0 +1,1803 @@
+{
+    "sections": {
+        "SECTION_SEARCH_RESULT": [
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19870950,
+                    "name": "Biryani Mahal",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/19870950\/f12e011c58d47858672bbf4dde6bc2a7_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/19870950\/f12e011c58d47858672bbf4dde6bc2a7_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.2",
+                        "rating_text": "4.2",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "1,006",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.2",
+                                "reviewCount": "1,006",
+                                "reviewTextSmall": "1,006 Reviews",
+                                "subtext": "1,006 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.2",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9400 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Husain Ganj, Lucknow",
+                        "address": "50\/134-2, Bariya Mohal, Jai Narayan Road, Husain Ganj, Lucknow",
+                        "localityUrl": "lucknow\/husain-ganj-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "28 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/biryani-mahal-1-husain-ganj\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/biryani-mahal-1-husain-ganj\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F19870950%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "3.2 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19870950\",\"element_type\":\"listing\",\"rank\":1}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "20% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20650525,
+                    "name": "The Burger's Castle",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/20650525\/07f0d0befaa95deb1c70bd279d10f77a_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/20650525\/07f0d0befaa95deb1c70bd279d10f77a_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.5",
+                        "rating_text": "3.5",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "703",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.0",
+                                "reviewCount": "15",
+                                "reviewTextSmall": "15 Reviews",
+                                "subtext": "15 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.0",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.9",
+                                "reviewCount": "688",
+                                "reviewTextSmall": "688 Reviews",
+                                "subtext": "688 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.9",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9300 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Nirala Nagar, Lucknow",
+                        "address": "Shop 1, IT College Crossing, Sinha Market, Nirala Nagar, Lucknow",
+                        "localityUrl": "lucknow\/nirala-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/burger\/",
+                            "name": "Burger"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyNFwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/wraps\/",
+                            "name": "Wraps"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/sandwich\/",
+                            "name": "Sandwich"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/street-food\/",
+                            "name": "Street Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/coffee\/",
+                            "name": "Coffee"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/shake\/",
+                            "name": "Shake"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "25 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/the-burgers-castle-nirala-nagar\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/the-burgers-castle-nirala-nagar\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F20650525%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "1.3 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20650525\",\"element_type\":\"listing\",\"rank\":2}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19923023,
+                    "name": "SS Eating Point",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/19923023\/6c9e4cb26b1e5c5e34abb55d290c56f7_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/19923023\/6c9e4cb26b1e5c5e34abb55d290c56f7_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.0",
+                        "rating_text": "4.0",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "332",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.0",
+                                "reviewCount": "332",
+                                "reviewTextSmall": "332 Reviews",
+                                "subtext": "332 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.0",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9250 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Khurram Nagar, Lucknow",
+                        "address": "B-24, Near Kid Land School, Khurram Nagar, Lucknow",
+                        "localityUrl": "lucknow\/khurram-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "34 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/ss-eating-point-khurram-nagar\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/ss-eating-point-khurram-nagar\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F19923023%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "4.1 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19923023\",\"element_type\":\"listing\",\"rank\":3}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "10% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 18971075,
+                    "name": "New Awadh Biryani Corner",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/18971075\/170ade269bc6ce86772cc23bb0141bd9_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/18971075\/170ade269bc6ce86772cc23bb0141bd9_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.2",
+                        "rating_text": "3.2",
+                        "rating_subtitle": "Average",
+                        "rating_color": "CDD614",
+                        "votes": "8,089",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "2.7",
+                                "reviewCount": "58",
+                                "reviewTextSmall": "58 Reviews",
+                                "subtext": "58 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "2.7",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "yellow",
+                                    "tint": "600"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.7",
+                                "reviewCount": "8,031",
+                                "reviewTextSmall": "8,031 Reviews",
+                                "subtext": "8,031 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.7",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9500 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Aliganj, Lucknow",
+                        "address": "LGF 67, Adarsh Complex, Engineering College Chauraha, Aliganj, Lucknow",
+                        "localityUrl": "lucknow\/aliganj-restaurants"
+                    },
+                    "timing": {
+                        "text": "Closes in 11 minutes",
+                        "color": "#ab000d"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/mughlai\/",
+                            "name": "Mughlai"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "32 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/new-awadh-biryani-corner-aliganj\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/new-awadh-biryani-corner-aliganj\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F18971075%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "5.3 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18971075\",\"element_type\":\"listing\",\"rank\":4}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20719444,
+                    "name": "Ratan Bhojnalaya And Kachori",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/20719444\/be1e4131c6465903c0fd79f6b7805de7_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/20719444\/be1e4131c6465903c0fd79f6b7805de7_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.2",
+                        "rating_text": "3.2",
+                        "rating_subtitle": "Average",
+                        "rating_color": "CDD614",
+                        "votes": "445",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.2",
+                                "reviewCount": "445",
+                                "reviewTextSmall": "445 Reviews",
+                                "subtext": "445 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.2",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9250 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Gomti Nagar, Lucknow",
+                        "address": "18\/20, Vivek Khand 1, Near Gomti Nagar Station, Gomti Nagar, Lucknow",
+                        "localityUrl": "lucknow\/gomti-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "Closes in 11 minutes",
+                        "color": "#ab000d"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/street-food\/",
+                            "name": "Street Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "33 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/ratan-bhojnalaya-and-kachori-gomti-nagar\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/ratan-bhojnalaya-and-kachori-gomti-nagar\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F20719444%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "5.1 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20719444\",\"element_type\":\"listing\",\"rank\":5}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "60% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 800705,
+                    "name": "Jai Mata Vaishno Bhojanalaya",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/5\/800705\/69b784afa7c377b4e70b4e1f69c66653_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/5\/800705\/69b784afa7c377b4e70b4e1f69c66653_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.4",
+                        "rating_text": "3.4",
+                        "rating_subtitle": "Average",
+                        "rating_color": "CDD614",
+                        "votes": "9,948",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.1",
+                                "reviewCount": "98",
+                                "reviewTextSmall": "98 Reviews",
+                                "subtext": "98 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.1",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.6",
+                                "reviewCount": "9,850",
+                                "reviewTextSmall": "9,850 Reviews",
+                                "subtext": "9,850 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.6",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9250 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Husain Ganj, Lucknow",
+                        "address": "25, Vidhan Sabha Marg, Burlington Crossing, Husain Ganj, Lucknow",
+                        "localityUrl": "lucknow\/husain-ganj-restaurants"
+                    },
+                    "timing": {
+                        "text": "Opens at 1pm",
+                        "color": "#ab000d"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "21 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/jai-mata-vaishno-bhojanalaya-husain-ganj\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/jai-mata-vaishno-bhojanalaya-husain-ganj\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F800705%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "2.9 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"800705\",\"element_type\":\"listing\",\"rank\":6}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "20% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19863229,
+                    "name": "Tainoor Veg & Non Veg Hub",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/9\/19863229\/4b032bbcd46e4db034cfebab158a720f_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/9\/19863229\/4b032bbcd46e4db034cfebab158a720f_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.4",
+                        "rating_text": "3.4",
+                        "rating_subtitle": "Average",
+                        "rating_color": "CDD614",
+                        "votes": "924",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.4",
+                                "reviewCount": "924",
+                                "reviewTextSmall": "924 Reviews",
+                                "subtext": "924 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.4",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9250 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Chowk, Lucknow",
+                        "address": "Baraf Khana, Thakurganj, Chowk, Lucknow",
+                        "localityUrl": "lucknow\/chowk-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTU3XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/lucknowi\/",
+                            "name": "Lucknowi"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/kebab\/",
+                            "name": "Kebab"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/rolls\/",
+                            "name": "Rolls"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAzNVwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/afghan\/",
+                            "name": "Afghan"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/burger\/",
+                            "name": "Burger"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "32 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/tainoor-veg-non-veg-hub-1-chowk\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/tainoor-veg-non-veg-hub-1-chowk\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F19863229%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "6 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19863229\",\"element_type\":\"listing\",\"rank\":7}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19641347,
+                    "name": "New Balaji Dhaba",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/19641347\/32cc18289bed1eb51cb5498b12818474_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/19641347\/32cc18289bed1eb51cb5498b12818474_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.9",
+                        "rating_text": "3.9",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "2,059",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.9",
+                                "reviewCount": "2,059",
+                                "reviewTextSmall": "2,059 Reviews",
+                                "subtext": "2,059 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.9",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9400 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Alambagh, Lucknow",
+                        "address": "C-5, Near L.D.A Market, Alambagh, Lucknow",
+                        "localityUrl": "lucknow\/alambagh-restaurants"
+                    },
+                    "timing": {
+                        "text": "Closes in 1 hour 11 minutes",
+                        "color": "#e5521f"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/south-indian\/",
+                            "name": "South Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "38 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/new-balaji-dhaba-alambagh\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/new-balaji-dhaba-alambagh\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F19641347%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "6.9 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19641347\",\"element_type\":\"listing\",\"rank\":8}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "40% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19855242,
+                    "name": "ILA Bakers",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/19855242\/96906ba8a463d8f12d76badb6d98fb76_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/19855242\/96906ba8a463d8f12d76badb6d98fb76_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.8",
+                        "rating_text": "3.8",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "1,012",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.8",
+                                "reviewCount": "1,012",
+                                "reviewTextSmall": "1,012 Reviews",
+                                "subtext": "1,012 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.8",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9450 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Aliganj, Lucknow",
+                        "address": "LIG 4\/35, Jankipuram, Sector H, Aliganj, Lucknow",
+                        "localityUrl": "lucknow\/aliganj-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/bakery\/",
+                            "name": "Bakery"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/south-indian\/",
+                            "name": "South Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/street-food\/",
+                            "name": "Street Food"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "39 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/ila-bakers-1-aliganj\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/ila-bakers-1-aliganj\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F19855242%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "6.3 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19855242\",\"element_type\":\"listing\",\"rank\":9}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20640383,
+                    "name": "Yummy Baba",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/20640383\/90e68bffed8df43b8c89c94f87e7e133_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/20640383\/90e68bffed8df43b8c89c94f87e7e133_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.6",
+                        "rating_text": "3.6",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "467",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.6",
+                                "reviewCount": "467",
+                                "reviewTextSmall": "467 Reviews",
+                                "subtext": "467 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.6",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9600 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Jankipuram, Lucknow",
+                        "address": "2\/837, Sector H, Jankipuram, Lucknow",
+                        "localityUrl": "lucknow\/jankipuram-restaurants"
+                    },
+                    "timing": {
+                        "text": "Closes in 1 hour 11 minutes",
+                        "color": "#e5521f"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/rolls\/",
+                            "name": "Rolls"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "40 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/yummy-baba-jankipuram\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/yummy-baba-jankipuram\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F20640383%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "6 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20640383\",\"element_type\":\"listing\",\"rank\":10}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 801245,
+                    "name": "Balaji Grand",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/801245\/ce0d4f52a4d7ba3dc0ece6cc58574374_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/801245\/ce0d4f52a4d7ba3dc0ece6cc58574374_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.0",
+                        "rating_text": "4.0",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "2,173",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.0",
+                                "reviewCount": "104",
+                                "reviewTextSmall": "104 Reviews",
+                                "subtext": "104 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.0",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.9",
+                                "reviewCount": "2,069",
+                                "reviewTextSmall": "2,069 Reviews",
+                                "subtext": "2,069 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.9",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9500 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Charbagh, Lucknow",
+                        "address": "94\/212\/19, AP Sen Road, Charbagh, Lucknow",
+                        "localityUrl": "lucknow\/charbagh-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "29 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/balaji-grand-charbagh\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/balaji-grand-charbagh\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F801245%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "4.2 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"801245\",\"element_type\":\"listing\",\"rank\":11}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20511395,
+                    "name": "Subway",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/9\/801649\/f31733dfcef4c1edb388b77619e07a59_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/9\/801649\/f31733dfcef4c1edb388b77619e07a59_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.4",
+                        "rating_text": "3.4",
+                        "rating_subtitle": "Average",
+                        "rating_color": "CDD614",
+                        "votes": "1,331",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "2.9",
+                                "reviewCount": "6",
+                                "reviewTextSmall": "6 Reviews",
+                                "subtext": "6 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "2.9",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "yellow",
+                                    "tint": "600"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.8",
+                                "reviewCount": "1,325",
+                                "reviewTextSmall": "1,325 Reviews",
+                                "subtext": "1,325 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.8",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9400 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Nishatganj, Lucknow",
+                        "address": "Unit 13, Ground Floor, Umrao Mall, Near Badshah Nagar Metro Station, Nishatganj, Lucknow",
+                        "localityUrl": "lucknow\/nishatganj-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQzXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/health-food\/",
+                            "name": "Healthy Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/salad\/",
+                            "name": "Salad"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/sandwich\/",
+                            "name": "Sandwich"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyNFwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/wraps\/",
+                            "name": "Wraps"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/lucknow\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "23 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/lucknow\/subway-nishatganj\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/lucknow\/subway-nishatganj\/order",
+                    "clickActionDeeplink": "https:\/\/bnc.lt\/WJml\/XSaHR6pb4cb?deeplink_url=zomato%3A%2F%2Forder%2F20511395%3Futm_campaign%3D9209baab355ab3032508685093e2fba1%26utm_source%3Dmweb%26utm_medium%3DMwebSearchResCard"
+                },
+                "distance": "1.2 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"location_type\":\"delivery_cell\",\"location_id\":\"4151190155136335872\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20511395\",\"element_type\":\"listing\",\"rank\":12}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            }
+        ],
+        "SECTION_SEARCH_META_INFO": {
+            "searchMetaData": {
+                "previousSearchParams": "{\"PreviousSearchId\":\"db730147-154f-47b9-afb4-dd24eb40d00b\",\"PreviousSearchFilter\":[\"{\\\"category_context\\\":\\\"delivery_home\\\"}\",\"\"]}",
+                "postbackParams": "{\"processed_chain_ids\":[20273580,19165593,19396046,20577420,19476064,800363,20318258,800496,18994915,18798800,19262281,18706975,19718815,20605572,800126,18671102,18700337,20056686,800040,801103,20280848,19676414,20107498,19745602,20647020,20701603,800910,20024188,800318,19729687,19890577,800405,19982913,18862383,20632085,20421793,19727851,20459241,19898777,20318337,20572986,800271,20234695,20440111,19013024,19870950,20650525,19923023,18971075,20719444,800705,19863229,19641347,19855242,20640383,801245,801649],\"shown_res_count\":57,\"search_id\":\"db730147-154f-47b9-afb4-dd24eb40d00b\"}",
+                "totalResults": 1176,
+                "hasMore": true,
+                "getInactive": false
+            }
+        }
+    },
+    "entities": []
+}
