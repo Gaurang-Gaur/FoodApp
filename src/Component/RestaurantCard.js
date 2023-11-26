@@ -1,10 +1,8 @@
 
 import Card from "./Card";
-import data from "../utils/apiData.json";
 
 
 // .This newData is array now
-const newData=data.sections.SECTION_SEARCH_RESULT;
 
 
 
@@ -12,7 +10,7 @@ const newData=data.sections.SECTION_SEARCH_RESULT;
 const RestaurantCard = (props) => {
 
   
-const newData=props.newData;
+const newData=props.gitData;
 
  
 

@@ -1,5 +1,11 @@
 import {LOGO} from "../utils/content";
+import {useState} from "react";
 const Header=()=>{
+
+    const [userStatus, setuserStatus]=useState("login");
+    const handleClick=()=>{
+        userStatus==="login"?setuserStatus("logout"):setuserStatus("login");
+    }
 
 
     return (
@@ -12,6 +18,7 @@ const Header=()=>{
                     <li>Home</li>
                     <li>About</li>
                     <li>Cart</li>
+                    <li type="button" onClick={handleClick}>{userStatus}</li>
                 </ul>
             </div>
         </div>
