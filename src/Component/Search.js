@@ -76,10 +76,10 @@ const searchForMe=()=>{
       <button
         className="btn-search-top"
         onClick={() => {
-          filterList = filterArrayOfRes.filter(
+          filterList = solveBugSearchBar.filter(
             (topRate) => topRate.info.rating.aggregate_rating >= 4
           );
-          setfilterArrayOfRes(filterList);
+          setsolveBugSearchBar(filterList);
         }}
       >
         {" "}
