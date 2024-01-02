@@ -4,7 +4,7 @@ const Error=()=>{
 
     return (
         <div>
-            <h1> error component</h1>
+            <h1> OOps something wrong </h1>
         </div>
     )
 }
