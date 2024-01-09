@@ -2,6 +2,8 @@
 import {useEffect, useState} from "react";
 
 const RestaurantMenu=()=>{
+    
+    const [restaurantMenu,setRestaurantMenu]=useState(null);
 
 
     useEffect (()=>{
@@ -10,17 +12,21 @@ const RestaurantMenu=()=>{
 
     },[]);
 
+   
+
 
     const fetchApi=async()=>{
+        let data;
 
+        const ApiData=await fetch("https://dev.foodkit.io/api/v5/storefront/content/tenants/{tenant}/branch-list");
 
-        const ApiData=await fetch("https://gaurang-gaur.github.io/host_api/apiData.json");
-
-        const data= await ApiData.json();
-        console.log(data);
+        data= await ApiData.json();
+        // console.log(data);
+        setRestaurantMenu(data);
     }
 
-
+    // const {info}=restaurantMenu?.sections.SECTION_SEARCH_RESULT[0];
+    // console.log(info)
 
 
 
