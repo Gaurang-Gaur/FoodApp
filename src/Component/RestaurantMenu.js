@@ -13,20 +13,21 @@ const RestaurantMenu=()=>{
     },[]);
 
    
-
-
+let gridData=0;
+    
     const fetchApi=async()=>{
-        let data;
+        
 
-        const ApiData=await fetch("https://dev.foodkit.io/api/v5/storefront/content/tenants/{tenant}/branch-list");
+        const ApiData=await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.7040592&lng=77.10249019999999&restaurantId=%16866%22&submitAction=ENTER");
 
-        data= await ApiData.json();
-        // console.log(data);
+        const data= await ApiData.json();
+        console.log(data);
         setRestaurantMenu(data);
-    }
-
-    // const {info}=restaurantMenu?.sections.SECTION_SEARCH_RESULT[0];
-    // console.log(info)
+        
+            const {info}=data?.data.cards[4].card.card.gridElements.infoWithStyle.restaurants[1];
+            
+        console.log(info)
+        }
 
 
 
