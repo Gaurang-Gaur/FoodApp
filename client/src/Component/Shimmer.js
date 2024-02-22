@@ -2,11 +2,7 @@
 
     return (
 <>
-<div className="parent-shimmer-search-div">
-<div  className="shimmer-search">
 
-</div>
-</div>
 
 
 
