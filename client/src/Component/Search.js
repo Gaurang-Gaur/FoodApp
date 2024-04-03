@@ -1,6 +1,7 @@
 import { useState,useEffect } from "react"; // name import
 import RestaurantCard from "./RestaurantCard";
 import Shimmer from "./Shimmer";
+import useStatusOnline from "../utils/useOnlineStatus";
 
 
 
@@ -54,6 +55,16 @@ const searchForMe=()=>{
   // setfilterArrayOfRes(newSearchFilterArray);
   setsolveBugSearchBar(newSearchFilterArray);
 
+}
+
+
+//. online status
+
+const onlineStatus=useStatusOnline();
+
+if(onlineStatus===false){
+
+  return(<h1> oops you are offline</h1>)
 }
 
 

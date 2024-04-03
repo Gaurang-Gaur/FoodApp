@@ -1,48 +1,25 @@
+// Theory about custom hook :
+// 1. single responsible principle  : acc. to this principle the single entity hold single responsilbe so, I am creating the custom for fetching the api and 
+//2. And the sole responsilblity of component is to, display the restaurant menu data
 
-import {useEffect, useState} from "react";
+// import {useEffect, useState} from "react";
+import useRestaurantMenu from "../utils/useRestaurantMenu";
 import Shimmer from "./Shimmer";
 import {useParams} from "react-router-dom";
 
 const RestaurantMenu=()=>
 {
     
-    const [restaurantMenus,setRestaurantMenus]=useState(null);
     const params=useParams();
 
     const resId=params.resId;
     console.log(params.resId);
 
-
-    useEffect (()=>{
-
-        fetchApi();
-
-    },[]);
-
-   
-
-    
+    const restaurantMenus=useRestaurantMenu(resId);
+    console.log(restaurantMenus);
 
 
-//.fetching api here 
-      const fetchApi=async()=>{
-        
 
-        const ApiData=await fetch("http://localhost:8000/restaurant/"+resId);
-        //1
-
-        const data= await ApiData.json();
-            if(!data){
-                console.log("api is not fetched");
-            }
-            else{
-                console.log(data);
-            }
-
-            setRestaurantMenus(data);
-
-       
-        }
 //. destructuring here
 
 
