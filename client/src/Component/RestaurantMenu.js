@@ -14,13 +14,14 @@ const RestaurantMenu=()=>
 
     const resId=params.resId;
     console.log(params.resId);
+    console.log("inside restaurant menu")
 
     const restaurantMenus=useRestaurantMenu(resId);
-    console.log(restaurantMenus);
+    // console.log(restaurantMenus);
 
 
 
-//. destructuring here
+
 
 
 
@@ -29,33 +30,36 @@ const RestaurantMenu=()=>
 
 
 
-if(restaurantMenus===null) return (<Shimmer/>);
-const {cuisine}=restaurantMenus.info;
+// if(restaurantMenus===null) return (<Shimmer/>);
+// const {cuisine}=restaurantMenus.info;
 
+// console.log(restaurantMenus);
 
     return(
         
-        // <div>{restaurantMenus.name}</div>
-        <>
-        <div>{restaurantMenus.info.resId}</div>
-        <div>{restaurantMenus.info.name}</div>
-        <div>{restaurantMenus.info.locality.address}</div>
-        <div>Delivery Time:{restaurantMenus.order.deliveryTime}</div>
+        // // <div>{restaurantMenus.name}</div>
+        // <>
+        // <div>{restaurantMenus.info.resId}</div>
+        // <div>{restaurantMenus.info.name}</div>
+        // <div>{restaurantMenus.info.locality.address}</div>
+        // <div>Delivery Time:{restaurantMenus.order.deliveryTime}</div>
 
-        <div> GET Anything at  {" "+restaurantMenus.info.cfo.text}</div>
+        // <div> GET Anything at  {" "+restaurantMenus.info.cfo.text}</div>
 
-        <ul>
-          {  cuisine.map((item)=>(<li key={item.name}>{item.name}</li>))}
+        // <ul>
+        //   {  cuisine.map((item)=>(<li key={item.name}>{item.name}</li>))}
             
-        </ul>
+        // </ul>
 
         
-            {/* {restaurantMenus.info.cfo} */}
+        //     {/* {restaurantMenus.info.cfo} */}
 
       
 
 
-        </>
+        // </>
+        <>
+        inside card</>
     )
 }
 

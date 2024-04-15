@@ -8,3 +8,17 @@ If it 's a array then we can apply all the operation we perform on array on it l
 
 a. if i click on the card in the frontend it will change the url to resId of the restaurant card and made a req in backend
 b. then , iteration over the data array eg. data[i].info.resId= resid required from frontend and then just simple give it back to the frontend 
+
+
+like this
+// for(let i=0;i<data.length;i++){
+
+    //     if(data[i].info.resId==id){
+
+    //         result=data[i].info;
+    //         break;
+    //     }
+    // console.log(dataArray);
+    // }
+// result=dataArray.find(item=>item.info.id==id);
+// res.json(dataArray);

@@ -11,15 +11,17 @@ const RestaurantCard = (props) => {
 
   
 const newData=props.gitData;
+// console.log(newData[0].data.info.id +"inside rescard");
 
 
-// console.log(newData);
+// console.log(newData[0].info.id);
+
 
  
 
-  return <div id="res-card-container">
+  return <div className="flex flex-wrap rounded-lg" >
     {
-        newData.map((restaurantCard)=><Link  key={restaurantCard.info.resId} to={"/restaurant/"+restaurantCard.info.resId}><Card   data={restaurantCard}/></Link>)
+        newData.map((restaurantCard)=><Link  key={restaurantCard.info.id} to={"/restaurant/"+restaurantCard.info.id}><Card   data={restaurantCard}/></Link>)
     }
   </div>
 }

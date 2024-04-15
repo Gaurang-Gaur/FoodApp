@@ -13,13 +13,6 @@ const Search = () => {
   const [solveBugSearchBar,setsolveBugSearchBar]=useState([]);
 
 
-// console.log(filterArrayOfRes);
-
-
-//. hook for api start
-  useEffect(()=>{
-    fetchapi();
-  },[]);
 
 
   const fetchapi=async ()=>{
@@ -29,12 +22,23 @@ const Search = () => {
     }
 
     const json=await data.json();
-    const gitApiData=json.sections.SECTION_SEARCH_RESULT;
+    const dataArray=json.data.cards;
+
+    const restaurantArray=dataArray[1].card.card.gridElements.infoWithStyle.restaurants;
+    // console.log(restaurantArray)
    
-    setfilterArrayOfRes(gitApiData);
-    setsolveBugSearchBar(gitApiData);
+    setfilterArrayOfRes(restaurantArray);
+    setsolveBugSearchBar(restaurantArray);
+    // console.log("run")
   
   }
+  
+//. hook for api start
+useEffect(()=>{
+  fetchapi();
+},[]);
+
+
 
   //. hook for api ends
 
@@ -75,17 +79,17 @@ if(onlineStatus===false){
   // imp:Conditional Render
 
   return (filterArrayOfRes.length===0)?<Shimmer/>:(
-    <div className="Search">
+    <div className="p-4 m-4">
       
-      <div className="center">
-        <input type="search" placeholder="Search Your Food" class="input" value={searchbox} onChange={(e)=>{setsearchbox(e.target.value)}} />
+      <div className="">
+        <input type="search" placeholder="" className="border border-solid border-black" value={searchbox} onChange={(e)=>{setsearchbox(e.target.value)}} />
       
-        <div  className="btn-alignment">
-        <button className="btn-search" onClick={searchForMe} >I'm Feeling Lucky </button>
+        
+        <button className="bg-green-400 px-4 mx-4 rounded-sm" onClick={searchForMe} > Search </button>
       
       
-      <button
-        className="btn-search-top"
+      {/* <button
+        className="bg-green-400 px-3 rounded-sm"
         onClick={() => {
           filterList = solveBugSearchBar.filter(
             (topRate) => topRate.info.rating.aggregate_rating >= 4
@@ -93,10 +97,10 @@ if(onlineStatus===false){
           setsolveBugSearchBar(filterList);
         }}
       >
-        {" "}
-        TopRate{" "}
-      </button>
-        </div>
+      
+        TopRate
+      </button> */}
+      
       </div>
       <RestaurantCard gitData={solveBugSearchBar}/>
     </div>

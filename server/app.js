@@ -1,30 +1,16 @@
 const express=require("express");
 const cors=require("cors");
 
+const {RES_DATA,MENU_ITEM_TYPE_KEY,RESTAURANT_TYPE_KEY}=require('../server/utils/content');
+
 const app=express();// instance of server ...
 let jsonData;
-let gitApiData;
-
-const datato= async()=>{
-
-    const data=await fetch("https://gaurang-gaur.github.io/host_api/apiData.json");
-    if(!data){
-      console.log("api is not fetch");
-    }
-   
-     jsonData=await data.json();
-  
+let dataArray;
 
 
 
-    console.log(jsonData.sections.SECTION_SEARCH_RESULT);
-     gitApiData=jsonData.sections.SECTION_SEARCH_RESULT;
-}
 
-datato();
-
-
-
+//Using middleware
 app.use(cors());
 
 
@@ -34,38 +20,53 @@ app.use(cors());
 
 app.get("/restaurant/:id",(req,res)=>{
     
+   try{
     const id=req.params['id'];
+    console.log("get request");
     
+
+    const datato= async()=>{
+        // console.log(RES_DATA);
+
+        const data=await fetch(RES_DATA+id);
+        if(!data){
+          console.log("api is not fetch");
+        }
+       
+         jsonData=await data.json();
+      
+    
+    
+         dataArray=jsonData;
+        
+         
+       
+    }
+    
+    datato();
 
     //. here filter data to be send according the id
 
-    // console.log(typeof(data));
    
-    // console.log(data[0].info);
-
-    // const arr=[1,45,553,5];
-    let result;
-
+    let restaurantMenuData=dataArray.data.cards[4].groupedCard.cardGroupMap.REGULAR.cards;
    
-    // for(let i=0;i<data.length;i++){
+ 
 
-    //     if(data[i].info.resId==id){
+      // const menueItems =
+      // jsonData.data.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards.filter(
+      //   (res) => res?.card?.card?.itemCards
+      // );
 
-    //         result=data[i].info;
-    //         break;
-    //     }
-    // }
-result=gitApiData.find(item=>item.info.resId==id);
-    // const res=data
-    // constarr.filter()
     
-    // res.setHeader("Content-Type","application/json");
-    // res.send(result);
-    res.json(result);
-    // res.send(data[0]);
+res.json(restaurantMenuData);
+// res.json("hello")
 
-    // res.send(dataObj);
     console.log("hello ji"+id);
+   }
+   catch(error){
+    // console.log(e);
+    res.status(500).json(error.message)
+   }
     
 })
 
