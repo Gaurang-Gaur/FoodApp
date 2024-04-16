@@ -6,6 +6,8 @@
 import useRestaurantMenu from "../utils/useRestaurantMenu";
 import Shimmer from "./Shimmer";
 import {useParams} from "react-router-dom";
+import {MENU_ITEM_TYPE_KEY} from "../utils/content";
+
 
 const RestaurantMenu=()=>
 {
@@ -13,53 +15,47 @@ const RestaurantMenu=()=>
     const params=useParams();
 
     const resId=params.resId;
-    console.log(params.resId);
+    // console.log(params.resName);
+    const resName=params.resName;
+    // console.log(params.resId);
     console.log("inside restaurant menu")
 
     const restaurantMenus=useRestaurantMenu(resId);
     // console.log(restaurantMenus);
 
+ // const restaurantData =
+            // data
+            //   ?.map((x) => x.card)
+            //   ?.find((x) => x && x.card["@type"] === MENU_ITEM_TYPE_KEY)
+            //   ?.itemCards || null;
+            //   console.log(restaurantData)
+            // console.log(restaurantMenus[0]);
+            const categories=restaurantMenus?.map((x)=>x.card)?.filter((x)=>x.card["@type"]===MENU_ITEM_TYPE_KEY)
+            // const s=data?.map((x)=>x.card)?.filter((x)=>console.log(x.card["@type"]));
+            // s.filter((x)=>x.itemCards);
+            console.log(categories)
+            // const cardData=restaurantData.map((x)=>x.card);
+            // console.log(cardData)
+            // console.log(categories[0].card.itemCards[1].card.info);
 
 
 
 
 
 
-// const {info}=restaurantMenu[0];
-// console.log(restaurantMenu);
 
 
 
-// if(restaurantMenus===null) return (<Shimmer/>);
-// const {cuisine}=restaurantMenus.info;
+if(restaurantMenus===null) return (<Shimmer/>);
 
-// console.log(restaurantMenus);
 
     return(
+        <div className="text-center m-5 p-3 font-bold">
+            {resName}
+        </div>
         
-        // // <div>{restaurantMenus.name}</div>
-        // <>
-        // <div>{restaurantMenus.info.resId}</div>
-        // <div>{restaurantMenus.info.name}</div>
-        // <div>{restaurantMenus.info.locality.address}</div>
-        // <div>Delivery Time:{restaurantMenus.order.deliveryTime}</div>
-
-        // <div> GET Anything at  {" "+restaurantMenus.info.cfo.text}</div>
-
-        // <ul>
-        //   {  cuisine.map((item)=>(<li key={item.name}>{item.name}</li>))}
-            
-        // </ul>
-
-        
-        //     {/* {restaurantMenus.info.cfo} */}
-
-      
-
-
-        // </>
-        <>
-        inside card</>
+     
+       
     )
 }
 

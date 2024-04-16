@@ -22,11 +22,11 @@ const newData=props.gitData;
   return <div className="flex flex-wrap rounded-lg" >
     {
 
-        newData.map((restaurantCard)=><Link  key={restaurantCard.info.id} to={"/restaurant/"+restaurantCard.info.id}>
+        newData.map((restaurantCard)=><Link  key={restaurantCard.info.id} to={"/restaurant/"+restaurantCard.info.id+"/"+restaurantCard.info.name}>
          
           {/* higher component which take the component and return modified component  here, the input is card component */}
           {restaurantCard.info.isOpen?<RestaurantPromoted data={restaurantCard}/>:  <Card   data={restaurantCard}/>}
-          {console.log(restaurantCard.info)}
+          {/* {console.log(restaurantCard.info)} */}
         </Link>)
     }
   </div>
