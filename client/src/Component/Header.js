@@ -34,7 +34,7 @@ const Header=()=>{
                     <Link to="/cart">Cart</Link>
                     </li>
                     <li className="p-4">
-                        <Link to="/grocery">grocery</Link>
+                        <Link to="/grocery">Grocery</Link>
                     </li>
                     <li className="p-4" type="button" onClick={handleClick}>{userStatus}</li>
                     

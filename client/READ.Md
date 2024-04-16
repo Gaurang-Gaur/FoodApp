@@ -22,3 +22,8 @@ like this
     // }
 // result=dataArray.find(item=>item.info.id==id);
 // res.json(dataArray);
+
+
+// What is higher order component?
+
+// A component which take function as input  or return ()=>{};
