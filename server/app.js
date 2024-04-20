@@ -22,7 +22,6 @@ app.get("/restaurant/:id",(req,res)=>{
     
    try{
     const id=req.params['id'];
-    console.log("get request");
     
 
     const datato= async()=>{
@@ -52,19 +51,12 @@ app.get("/restaurant/:id",(req,res)=>{
    
  
 
-      // const menueItems =
-      // jsonData.data.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards.filter(
-      //   (res) => res?.card?.card?.itemCards
-      // );
-
+      
     
 res.json(restaurantMenuData);
-// res.json("hello")
 
-    console.log("hello ji"+id);
    }
    catch(error){
-    // console.log(e);
     res.status(500).json(error.message)
    }
     

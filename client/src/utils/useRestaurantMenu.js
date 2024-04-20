@@ -31,7 +31,9 @@ const useRestaurantMenu=(resId)=>{
                 console.log("api is not fetched");
             }
             else{
-                console.log(data);
+                // console.log(data);
+                // console.log("run");
+                console.log("api fetched");
             }
 
            
