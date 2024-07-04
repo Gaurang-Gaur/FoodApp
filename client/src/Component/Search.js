@@ -1,13 +1,15 @@
-import { useState, useEffect } from "react"; // name import
+import { useState, useEffect ,useContext} from "react"; // name import
 import RestaurantCard from "./RestaurantCard";
 import Shimmer from "./Shimmer";
 import useStatusOnline from "../utils/useOnlineStatus";
+import userContext from "../utils/userContext";
 
 const Search = () => {
   // imp:local state
   const [filterArrayOfRes, setfilterArrayOfRes] = useState([]);
   const [searchbox, setsearchbox] = useState("");
   const [solveBugSearchBar, setsolveBugSearchBar] = useState([]);
+  const {setUserName, logginUser}=useContext(userContext);
 
   const fetchapi = async () => {
     const data = await fetch(
@@ -76,6 +78,8 @@ const Search = () => {
             setsearchbox(e.target.value);
           }}
         />
+
+        <input className="border border-black mx-2" placeholder="typeuserName" value={logginUser} onChange={(e)=>{setUserName(e.target.value)}}/>
 
         <button
           className="bg-green-400 px-4 mx-12 rounded-sm hover:bg-green-500  "

@@ -8,6 +8,9 @@ import Error from "./Component/Error";
 import RestaurantMenu from"./Component/RestaurantMenu";
 // import Grocery from "./Component/Grocery";
 import {createBrowserRouter,RouterProvider,Outlet} from "react-router-dom";
+import {useEffect, useState} from "react";
+import userContext from "./utils/userContext";
+
 
 
 
@@ -17,14 +20,25 @@ const Grocery =lazy(()=>import("./Component/Grocery"));
 
 const App=()=>{
 
+    const [userName, setUserName]=useState(null);
+
+    useEffect(()=>{
+       const data={
+         userName:"Gaurang"
+       }
+       setUserName(data.userName);
+    },[])
+
 
     
 
     return (
     <div>
+        <userContext.Provider value={{logginUser    :userName, setUserName}}>
         <Header/>
         <Outlet/>
-        {/* <Body/> */}
+        </userContext.Provider>
+       
     </div>
     
 

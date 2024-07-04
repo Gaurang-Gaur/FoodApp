@@ -1,6 +1,5 @@
 import { RES_IMG_KEY } from "../utils/content.js";
 const ItemList = ({ itemInfo }) => {
-  console.log(itemInfo);
 
   return (
     <div>
@@ -16,6 +15,7 @@ const ItemList = ({ itemInfo }) => {
               }}
               alt="Image"
             />
+            <button className="p-2  bg-white absolute  rounded-md hover:bg-black hover:text-white ">+</button>
           </div>
           <div
             key={index}
